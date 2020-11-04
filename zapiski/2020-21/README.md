@@ -4,3 +4,4 @@
 * [`2020-10-15.md`](2020-10-15.md), [`2020-10-16.md`](2020-10-16.md) - enakovrednost in poenostavljanje izrazov
 * [`2020-10-21.md`](2020-10-21.md), [`2020-10-22.md`](2020-10-22.md) - enakovrednost in poenostavljanje izrazov, normalne oblike
 * [`2020-10-28.md`](2020-10-28.md), [`2020-10-29.md`](2020-10-29.md) - normalne oblike, polni nabori
+* [`2020-11-05.md`](2020-11-05.md), [`2020-11-06.md`](2020-11-06.md) - polni nabori, sklepanje
